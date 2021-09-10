@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @mradal
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web development on aws
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mradaltiwari98@gmail.com
 
 <!---
