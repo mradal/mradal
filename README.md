@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mradal
-- 📫 How to reach me : mradaltiwari98@gmail.com
+- 📫 How to reach me : mradal777@outlook.com
 
 <!---
 mradal/mradal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
